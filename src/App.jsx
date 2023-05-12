@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import axios from "axios";
 
 function App() {
-  const [colorSeed, setColorSeed] = useState("ffffff");
+  const [colorSeed, setColorSeed] = useState("#ffffff");
   const [colorMode, setColorMode] = useState("analogic");
   const [scheme, setScheme] = useState([]);
 
