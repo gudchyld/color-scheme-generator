@@ -1,0 +1,1 @@
+A color scheme generator using https://www.thecolorapi.com/ API
