@@ -42,6 +42,7 @@ const Navbar = ({ colorSeed, handleColorSeed, handleColorMode, handleSubmit }) =
           <option value="quad">quad</option>
         </select>
         <button className="text-sm py-2 px-6  border-2"
+         type="submit"
          style={buttonStyle}
          onClick={handleButtonStyle}
 
